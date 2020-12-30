@@ -1,4 +1,6 @@
-# firechat-vue
+# qtchat
+## A live chat app made in VueJS using the Firebase database.
+
 
 ## Project setup
 ```
